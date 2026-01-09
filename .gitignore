@@ -1,5 +1,4 @@
 daily_data/
-*.nc.xml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
