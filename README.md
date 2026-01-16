@@ -6,6 +6,11 @@ This repository contains materials for the Workshop on intro to large language m
 For more information visit the [MEDS AI for Environmental Data Science Workshop Series website](https://ucsb-meds.github.io/AI-for-EDS/).
 
 ## What's in this repo
+*More details to come*
+
+Run the key Jupyter notebook using binder:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/carmengg/code-for-genai-demo/HEAD)
 
 
 ## Contributors
@@ -16,4 +21,5 @@ These workshop materials were developed by [Carmen Galaz García](https://github
 Bliss, A. C., J. C. Comiso, C. L. Parkinson, R. Gersten, and T. Markus (2025), Current State of Sea Ice Cover, https://earth.gsfc.nasa.gov/cryo/data/current-state-sea-ice-cover, last access: 01-15-2026.
 
 Bliss, A. C., J. C. Comiso, C. L. Parkinson, R. Gersten, and T. Markus (2025), NASA GSFC Current State of Sea Ice Cover Image Archive, Zenodo. https://doi.org/10.5281/zenodo.17184409
+
 
