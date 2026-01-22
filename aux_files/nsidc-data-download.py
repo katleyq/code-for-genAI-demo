@@ -70,11 +70,11 @@ except ImportError:
 
 short_name = "NSIDC-0079"
 version = "4"
-time_start = "2024-01-01T08:00:00Z"
-time_end = "2025-01-01T07:59:59Z"
+time_start = "2021-01-01T08:00:00Z"
+time_end = "2024-01-01T07:59:59Z"
 bounding_box = ""
 polygon = ""
-filename_filter = ""
+filename_filter = "NSIDC0079_SEAICE_PS_N"
 url_list = []
 
 CMR_URL = "https://cmr.earthdata.nasa.gov"
